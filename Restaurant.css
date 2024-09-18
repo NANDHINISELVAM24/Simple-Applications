@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Responsive Photo Gallery</title> 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0- 
+alpha1/dist/css/bootstrap.min.css" rel="stylesheet"> 
+<link rel="stylesheet" href="food.css"> 
+</head> 
+<body> 
+<div class="container my-5"> 
+<h2 class="text-center mb-4">Desilicious Restaurant </h2> 
+<br>
+<div class="grid-gallery"> 
+<div class="gallery-item"><img src="https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/02/FotoJetcoverindianrest.jpg" alt="Image 1"></div>
+<div class="gallery-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8cKIEyxBj4OFH0gGCj7QgWBHoZ32NxGoBOvI0tyydCCeXNSTp2ntA9JngH-zIy2GWU0&usqp=CAU" alt="Image 2"></div> 
+<div class="gallery-item"><img src="https://cdn.tasteatlas.com/Images/Dishes/bdab2e7920f0409188d0b3646826893a.jpg?m=facebook" alt="Image 3"></div> 
+<div class="gallery-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1K3jlpERDQb42huSrteWIQIdZRS5tUpIL6A&s" alt="Image  4"></div> 
+<div class="gallery-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVGXjZ2QrZeG6rWvqQKSfgTgKEKjEtmFsWbg&s" alt="Image 5"></div> 
+<div class="gallery-item"><img src="https://tb-static.uber.com/prod/image-proc/processed_images/a9b7cf12c09eaf71e099a1f655192f63/c4114ef7f0cc2f8ee04dbb216969493e.jpeg" alt="Image  6"></div> 
+<div class="gallery-item"><img src="https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content6553.jpg" alt="Image 7"></div> 
+<div class="gallery-item"><img src="https://adyarvegrestaurant.home.blog/wp-content/uploads/2019/03/veg-food-1.jpeg" alt="Image  8"></div> 
+<div class="gallery-item"><img src="https://media-cdn.tripadvisor.com/media/photo-s/09/44/78/48/diamond-ring-pure-vegetarian.jpg" alt="Image 8"></div> 
+<div class="gallery-item"><img src="https://b.zmtcdn.com/data/collections/21650cff91a2be578aca3a09325fe694_1690789343.png" alt="Image  8"></div> 
+</div> 
+</div> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0- 
+alpha1/dist/js/bootstrap.bundle.min.js"></script> 
+</body> 
+</html>
